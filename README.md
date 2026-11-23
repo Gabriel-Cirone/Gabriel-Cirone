@@ -8,7 +8,7 @@
 
 ### About me
 
-Information Security Intern at **AK Networks**, working with **Identity & Access Management (IAM)** and **Privileged Access Management (PAM)**.
+Cybersecurity Intern at **AK Networks**, working with **Identity & Access Management (IAM)** and **Privileged Access Management (PAM)**.
 Background in computer networks, currently studying Cybersecurity at FIAP and building toward **Cloud Security**.
 
 - 🔐 Day to day: IAM, PAM (Delinea), access governance
