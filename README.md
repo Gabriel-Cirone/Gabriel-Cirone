@@ -2,7 +2,7 @@
 
 **Cybersecurity · IAM & PAM · Cloud Security**
 
-[LinkedIn](https://www.linkedin.com/in/cirone-gabriel-it/) · [Email](mailto:gabrielcirone@protonmail.com) · Brazil (UTC-3)
+[LinkedIn](https://www.linkedin.com/in/cirone-gabriel-it/) · [Email](mailto:gabrielcirone@protonmail.com) · Brazil
 
 ### About me
 
